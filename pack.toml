@@ -1,0 +1,13 @@
+name = "THICC-MC Modpack"
+author = "TD"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "63a5e2df685e7bc143f5101f75648c33575e601b5b99574464727f92814f2b01"
+
+[versions]
+forge = "47.2.20"
+minecraft = "1.20.1"
