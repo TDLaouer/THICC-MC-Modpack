@@ -156,6 +156,11 @@ hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
 metafile = true
 
 [[files]]
+file = "mods/retraining.pw.toml"
+hash = "eba02a40b75f0cfd0490c0f1bc862214c7aa18fa2cd8edfe1aa074a7965bdc10"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "5a1192528bb03cab00ab6d81bffd6f89faa653b5385b8e1c03963c4d78e287e3"
 metafile = true
@@ -173,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-backpack.pw.toml"
 hash = "2452e171581530df5962d0d387d66cc7358dc8d7cbfa955bcd3b0841a46f4d5c"
+metafile = true
+
+[[files]]
+file = "mods/vein-mining.pw.toml"
+hash = "ebd9b4fe88149334eb0de81e43d77c66627b1c2f7323966421279ab4b6ca75c5"
 metafile = true
 
 [[files]]
