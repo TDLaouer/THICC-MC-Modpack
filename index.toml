@@ -71,13 +71,28 @@ hash = "a2663a196a9991708b9eefe7505e1775e67c4ad996a15b493513f318c9b82352"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "d59d1e744ce12d491eb37ea26ef1ed3a80501c4e6b13915e8b2e2be02cd20cc5"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "32e9c2612ad11bf65a8f8904181c186191683d24f1d3505a59627a7bb47ae6a8"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "a3461b342acacec7af9b2c6c99df28fc1653d38e11014143c471904808296bca"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "ef83ed72d76fc288e9f3beaa24569bad7c5ea7cf1014c2cc0460a76c46c5703e"
 metafile = true
 
 [[files]]
@@ -173,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "24ff2fc07890c3fae3e080da2852b4120427393a237f810d58d5280247c40550"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "f6883dbacae2ced2bd6218b2ab1d7a438edbfe772cab9396c7fe2fecc43234d2"
 metafile = true
 
 [[files]]
