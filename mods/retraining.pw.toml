@@ -3,11 +3,11 @@ filename = "Retraining-forge-1.20.1-1.3.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/Iugiwphr/versions/cGyJebCQ/Retraining-forge-1.20.1-1.3.1.jar"
 hash-format = "sha1"
-hash = "7d9fb12e2ccb515eca4cfc440e4b052b57890a0f"
-mode = "metadata:curseforge"
+hash = "ce0cda264580b64ce7fb6455a84a368d65f5b6d9"
 
 [update]
-[update.curseforge]
-file-id = 4904554
-project-id = 543209
+[update.modrinth]
+mod-id = "Iugiwphr"
+version = "cGyJebCQ"

@@ -1,13 +1,13 @@
-name = "Vein Mining (Fabric/Forge/Quilt)"
-filename = "veinmining-forge-1.3.1+1.20.1.jar"
+name = "Vein Mining"
+filename = "veinmining-forge-1.4.1+1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/bRAPbNyF/versions/Wxs1rOyC/veinmining-forge-1.4.1%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "212998a7c3b08e6f7da760d2acaa8dec88bda29e"
-mode = "metadata:curseforge"
+hash = "5c02037f04197dd2e8894308aff43068aea0ed3c"
 
 [update]
-[update.curseforge]
-file-id = 5159312
-project-id = 431611
+[update.modrinth]
+mod-id = "bRAPbNyF"
+version = "Wxs1rOyC"
