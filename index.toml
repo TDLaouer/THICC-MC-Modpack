@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/create-server.toml"
+hash = "7f6d4375cbb58126538ac4957e678390cbcd6b6e2c447cd9d32d0a9a03267d0d"
+
+[[files]]
+file = "config/create_enchantment_industry-server.toml"
+hash = "0fd0fbba0885018cc5bd01fae54acdf53ce7c82cdee68b1971c88ae8aef45676"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
 metafile = true
@@ -118,6 +126,11 @@ metafile = true
 [[files]]
 file = "mods/embeddium.pw.toml"
 hash = "d59d1e744ce12d491eb37ea26ef1ed3a80501c4e6b13915e8b2e2be02cd20cc5"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "cb8cde73ebbc2051df6dca31f7a42fa419551fa069092a0e4adaff43bcfcb86b"
 metafile = true
 
 [[files]]
