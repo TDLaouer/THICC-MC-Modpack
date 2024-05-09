@@ -189,6 +189,11 @@ hash = "67efb201c75f6b864cfaaaf5815bb74ade6f348911906d5ca2868801fcfaf5d4"
 metafile = true
 
 [[files]]
+file = "mods/friendly-griefing.pw.toml"
+hash = "a152b43dc400577a51a7ad32c74f99592ddf8ee927902543b7791c090ae00225"
+metafile = true
+
+[[files]]
 file = "mods/goblin-traders.pw.toml"
 hash = "21767a26f0b81ce406431c8e7bef0be3d0f1b8b109b9748a5ebbda1a18417aec"
 metafile = true
@@ -196,6 +201,16 @@ metafile = true
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "941bbc3b5a23b8392d88b534a7fa1973273c3daa6f8fb70bfe4d4645423a2159"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "2143dc055ae837c6a4de5da8dd228cacf73dbe872a5c603a28f5e623e22ea5e6"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
 metafile = true
 
 [[files]]
@@ -274,6 +289,16 @@ hash = "1b01ff9b24cfb3611cf4dd14b24ffdf17379768f7a1202309a303b2bd4f16f1e"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
+metafile = true
+
+[[files]]
+file = "mods/more-chest-variants-lieonlion.pw.toml"
+hash = "6214d88b6c6306318f6586d3972bee86c3bf0f4d4e6c5bf507bc5cca3a645837"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "d71fd32a56325b8fe378cfafe78f81d985436b2fd44638f5bab1f1386680b096"
 metafile = true
@@ -281,6 +306,11 @@ metafile = true
 [[files]]
 file = "mods/mrcrayfish-furniture-mod.pw.toml"
 hash = "3d3a8cd6517c5804bd1ce2e4e05197ef40d33ed04c26b448c3eba6ac2b25321b"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "da8adfd1a2ab5e050fc182940c9bf972cbcafdbb12e22fe8274ccf47c71e9899"
 metafile = true
 
 [[files]]
@@ -299,8 +329,23 @@ hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "b53b7e21c4bff864dcdedddce48d2e3566074e51d64ea4d9bf98446bee3ec9fb"
+metafile = true
+
+[[files]]
+file = "mods/quad.pw.toml"
+hash = "a1147a8012ec046eb5ea27e629438926c76a1acff7b519accd66bcf3e6036ff1"
+metafile = true
+
+[[files]]
 file = "mods/replanting-crops.pw.toml"
 hash = "e3c5ac18e412aae7a638a2c22aff5f16e5de5c4ec368c08b011703cf44c58d84"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "026e484ff48513b66e8d78169bfbe5644fb76974ec1a7d5db1dfcc4590c9ef45"
 metafile = true
 
 [[files]]
