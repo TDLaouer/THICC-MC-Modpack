@@ -108,7 +108,7 @@
 	#.
 	#Damage dealt by active Crushing Wheels.
 	#Range: > 0
-	crushingDamage = 6
+	crushingDamage = 8
 
 	#.
 	#Encased Fan

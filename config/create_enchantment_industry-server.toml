@@ -54,11 +54,11 @@ copyClipboardCost = 10
 #.
 #The probability of dropping Experience Nugget after killing a creature on the Crushing Wheel
 #Range: 0.0 ~ 1.0
-crushingWheelDropExpRate = 0.8
+crushingWheelDropExpRate = 1.0
 #.
 #The Scale of Experience Nugget dropped by Crushing-Wheel-killed entities
 #Range: 0.10000000149011612 ~ 100.0
-crushingWheelDropExpScale = 1.0
+crushingWheelDropExpScale = 20.0
 #.
 #Whether or not copying a written book always get original version. Setting it to false let you always get copy version of the book.
 copyingWrittenBookAlwaysGetOriginalVersion = true

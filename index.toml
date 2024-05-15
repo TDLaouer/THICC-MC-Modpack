@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "7f6d4375cbb58126538ac4957e678390cbcd6b6e2c447cd9d32d0a9a03267d0d"
+hash = "d0ffbdc8414b438fae049ac072415842811d847dee9eda22d518d696faaf15e9"
 
 [[files]]
 file = "config/create_enchantment_industry-server.toml"
-hash = "0fd0fbba0885018cc5bd01fae54acdf53ce7c82cdee68b1971c88ae8aef45676"
+hash = "822cfe1200996dca00d8aa79f825c7875dfdee41684e676c911970ae67980a62"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
