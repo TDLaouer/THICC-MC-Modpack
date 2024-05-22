@@ -139,6 +139,11 @@ hash = "fe79cc78adf75a5aa3f32b2ac61a141ee7a4db1baebf628bee058a9c4381b255"
 metafile = true
 
 [[files]]
+file = "mods/doggy-talents-next.pw.toml"
+hash = "d09a6a21223bed878f2e7973756d929a020d523f17113510b0507d17ba46b4ee"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "b6f44d5d64a041adcad7fd12f542d6dab5ba164f009650ef5b950d0287f7b252"
 metafile = true
@@ -166,6 +171,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "d11fc9aac19a0a0af26884321b1b4205e55120e9583bb7323e9cbdb25925fbba"
+metafile = true
+
+[[files]]
+file = "mods/ends-delight.pw.toml"
+hash = "8103d9e0f49919e1868b5c6f82430b648148bb22c0f6ce24982f54070b6a5ce4"
 metafile = true
 
 [[files]]
@@ -339,8 +349,18 @@ hash = "da8adfd1a2ab5e050fc182940c9bf972cbcafdbb12e22fe8274ccf47c71e9899"
 metafile = true
 
 [[files]]
+file = "mods/nethers-delight.pw.toml"
+hash = "81be2b2e43c7cf127cf5b67e1dae3a5d7788732442cae1480cd7cd423043197c"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "26ca76ce6d17ce793960ef92cf1933f0e2330a425ff4f048d7d094f2a133f508"
+metafile = true
+
+[[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "83847f2b35a8db150f8b5af2ab5ac2d2e3be38b844477d21754794201ec81127"
 metafile = true
 
 [[files]]
@@ -401,6 +421,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "f836c2365476322130a2ae84481478206adfa576b4904cea93d26f7f22546d0d"
+metafile = true
+
+[[files]]
+file = "mods/twilight-delight.pw.toml"
+hash = "086365f8056548d8e8c9aab123f7d1f7c6e7375f3a1879e5e049a1ec93887125"
 metafile = true
 
 [[files]]
