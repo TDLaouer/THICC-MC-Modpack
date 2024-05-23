@@ -369,6 +369,11 @@ hash = "524acd510387c61c5f3c984e605fae03015434ae756b683d3b45a95951180394"
 metafile = true
 
 [[files]]
+file = "mods/our-villager-discounts.pw.toml"
+hash = "2bc6156d1769807c7e1c685cc57cc5e39ca807b36678995d5fb39b99012ab4f1"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
 metafile = true
